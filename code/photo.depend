@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1526383629 source:c:\users\sofia\desktop\photo\photo\classes.cpp
+	"header.h"
+
+1526279746 c:\users\sofia\desktop\photo\photo\header.h
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<vector>
+
+1526388341 source:c:\users\sofia\desktop\photo\photo\main.cpp
+	"header.h"
+	<windows.h>
+
+1526383630 source:e:\photo\photo\classes.cpp
+	"header.h"
+
+1526279748 e:\photo\photo\header.h
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<vector>
+
+1526388342 source:e:\photo\photo\main.cpp
+	"header.h"
+	<windows.h>
+
+1526383630 source:f:\photo\photo\classes.cpp
+	"header.h"
+
+1526279748 f:\photo\photo\header.h
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<vector>
+
+1526388342 source:f:\photo\photo\main.cpp
+	"header.h"
+	<windows.h>
+

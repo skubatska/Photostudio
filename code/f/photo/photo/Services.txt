@@ -1,0 +1,7 @@
+FotoziomkaSviatkuvannia	700
+SimeinaFotosesiia	500
+DytiachaFotosesiia	350
+IndyvidualnaFotosesiia	300
+ZiomkaPredmetiv	50
+FotoNaDokumenty	70
+LoveStory	500

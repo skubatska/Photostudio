@@ -1,0 +1,3 @@
+Igor	Boychyk	igor@gmail.com	380994738293	EE657490	Lancunska45	Meneger	15000
+Sasha	Klucivska	sasha@gmail.com	380993482943	EE439432	Dovbysha345a	Fotograf	10000
+Анна	Ткачук	anna@gmail.com	380996283508	EE457494	Ключівська15	фотограф	10000
